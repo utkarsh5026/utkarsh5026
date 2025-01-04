@@ -14,6 +14,24 @@
 
 </div>
 
+```typescript
+const utkarsh = {
+    pronouns: "he/him",
+    code: ["TypeScript",
+            "Python",
+            "Go",
+            "JavaScript"],
+    currentFocus: "Building scalable full-stack applications and learning about databases",
+    dailyLife: {
+        "☕ Coffee": "Caffenate and Dominate",
+        "💻 Code": "Reading more code than I write",
+        "🎮 Gaming": "Sometimes",
+        "🐛 Bugs": "More than I'd like to admit"
+    },
+    funFact: "It alwayys works on my machine 😎️ isn't this joke too old in docker world"
+};
+```
+
 ## 👨‍💻 About Me
 
 - 🌱 Learning **Database Internals**, **Vector Databases** and **Compiler Design**
