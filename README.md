@@ -4,16 +4,22 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h1>
   
-  <p>🚀 Building scalable systems and breaking them to learn why they work</p>
+  <p>🚀 Continuously building and breaking projects, not sure which happens more</p>
+</div>
+
+<div align="center">
+
+![Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHoxN2k4ZDR1djE4NmF1NWd2bDhxaXV6YnBxaWh3dDhyYmQyM3NpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)
+
+
 </div>
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working as a **DevOps Engineer** at IDeaS
-- 🌱 Learning **Database Internals** and **Compiler Design**
-- 💡 Building tools that make developers' lives easier
+- 🌱 Learning **Database Internals**, **Vector Databases** and **Compiler Design**
+- 💡 Building tools that make developers'(me 🙂) lives easier
 - ✍️ Writing technical articles on [Medium](https://medium.com/@utkarshpriyadarshi5026)
-- 💬 Ask me about **DevOps, Golang, Python, and System Design**
+- 💬 Ask me about **Typescript, Golang, Python,  React and System Design**
 
 ## 🛠️ Technologies & Tools
 
@@ -31,31 +37,35 @@
 
 </div>
 
-## 🚀 Featured Projects
 
-### AI-Powered Code Review Assistant
-- 🔍 Automated code quality analysis and security vulnerability detection
-- 📊 Processes 1M+ lines of code daily with 99% accuracy
-- 🛠️ Built with Python, FastAPI, and MongoDB
 
-### Microservices Orchestration Platform
-- 🎯 Custom scheduler implementation and service discovery
-- 📈 Handles 1000+ containers with 99.9% service availability
-- ⚡ Built with Golang, Kubernetes, and Docker
+## 🚀 Learning Queue:
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Mastering Data Structures for Databases: Part 1 - Skiplists](https://medium.com/@utkarshpriyadarshi5026/mastering-data-structures-for-databases-part-1-skiplists-e66f0831ac0b)
-- [A Technical Exploration of process.nextTick() in NodeJS](https://medium.com/@utkarshpriyadarshi5026/nodejs-process-nexttick-for-babies-b9eabfd3009a)
-- [Web Hooks for babies in Node.js](https://medium.com/@utkarshpriyadarshi5026/web-hooks-for-babies-in-node-js-5f5c1f390cba)
-<!-- BLOG-POST-LIST:END -->
-
-## 📊 GitHub Stats
+<br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarsh5026&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh5026&theme=radical" alt="GitHub Streak" />
+
+![Learning](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHo4NHJnYnB0ZHRxbWRyYWY4NjJ6aWN6YnB6ZmRwbXd6aXIyYnBmOWRqcWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
+
 </div>
+
+<br></br>
+
+- 🔧 **Compiler Design:** Building a language that will probably never replace JS (but has better error messages)
+- 📚 **Database Internals:** Understanding why SELECT * is actually SELECT *your_time by building my own database
+- 🎯 **Vector Databases:** Understanding the concept of "close enough"
+- 🧠 **LLMs & RAG:** Making AI slightly less artificial and occasionally intelligent
+- 🎮 **WebAssembly:** Because someone said JavaScript wasn't complicated enough
+- ⚡ **System Design:** Professional box drawing with occasional code implementation
+- 🔍 **RAG Systems:** Teaching documents to answer questions they weren't prepared for
+
+## ✍️ Tech Tales
+> Where I pretend to know what I'm writing about
+
+- [Skiplists: The Data Structure That Skips Leg Day](https://medium.com/@utkarshpriyadarshi5026/mastering-data-structures-for-databases-part-1-skiplists-e66f0831ac0b)
+- [process.nextTick(): Because setTimeout Was Too Mainstream](https://medium.com/@utkarshpriyadarshi5026/nodejs-process-nexttick-for-babies-b9eabfd3009a)
+- [Webhooks for Babies: Like Regular Hooks, But With More Crying](https://medium.com/@utkarshpriyadarshi5026/web-hooks-for-babies-in-node-js-5f5c1f390cba)
+
 
 ## 🤝 Connect With Me
 
