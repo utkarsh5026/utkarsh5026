@@ -1,103 +1,69 @@
-<div align="center">
-  <h1>
-    Hey there! I'm Utkarsh Priyadarshi
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </h1>
-  
-  <p>🚀 Continuously building and breaking projects, not sure which happens more</p>
-</div>
+# Utkarsh Priyadarshi
 
-<div align="center">
+Software Engineer | Go, TypeScript, Python | Building systems from first principles
 
-![Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHoxN2k4ZDR1djE4NmF1NWd2bDhxaXV6YnBxaWh3dDhyYmQyM3NpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)
+## About
 
+I build tools and systems to understand how they work under the hood. My projects span distributed systems, database internals, compilers, and developer tooling. I write about what I learn on [Medium](https://medium.com/@utkarshpriyadarshi5026).
 
-</div>
+## Projects
 
-```typescript
-const utkarsh = {
-    pronouns: "he/him",
-    code: ["TypeScript",
-            "Python",
-            "Go",
-            "JavaScript"],
-    currentFocus: "Building scalable full-stack applications and learning about databases",
-    dailyLife: {
-        "☕ Coffee": "Caffenate and Dominate",
-        "💻 Code": "Reading more code than I write",
-        "🎮 Gaming": "Sometimes",
-        "🐛 Bugs": "More than I'd like to admit"
-    },
-    funFact: "It alwayys works on my machine 😎️ isn't this joke too old in docker world"
-};
-```
+### Systems & Infrastructure
 
-## 👨‍💻 About Me
+- **[StoreMy](https://github.com/utkarsh5026/StoreMy)** - Custom database engine with WAL logging, B-tree indexing, and interactive TUI
+- **[Orchestra](https://github.com/utkarsh5026/Orchestra)** - Distributed task orchestration system with manager-worker architecture for scheduling containerized Docker workloads
+- **[dngo](https://github.com/utkarsh5026/dngo)** - RFC 1035-compliant DNS server with recursive resolution and message compression
+- **[current](https://github.com/utkarsh5026/current)** - BitTorrent client with peer-to-peer protocol and bencode encoding/decoding
+- **[tstp](https://github.com/utkarsh5026/tstp)** - HTTP/1.1 server in TypeScript with gzip compression, routing, and cache control
+- **[balance](https://github.com/utkarsh5026/balance)** - Load balancer in Go with YAML configuration and HTTP proxy capabilities
 
-- 🌱 Learning **Database Internals**, **Vector Databases** and **Compiler Design**
-- 💡 Building tools that make developers'(me 🙂) lives easier
-- ✍️ Writing technical articles on [Medium](https://medium.com/@utkarshpriyadarshi5026)
-- 💬 Ask me about **Typescript, Golang, Python,  React and System Design**
+### Programming Languages & Compilers
 
-## 🛠️ Technologies & Tools
+- **[enigma](https://github.com/utkarsh5026/enigma)** - Custom programming language with lexer, parser, and interpreter supporting closures and higher-order functions
+- **[Interpreter](https://github.com/utkarsh5026/interpreter)** - Programming language implementation in Java with REPL and interpreter
 
-<div align="center">
-  
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Developer Tools
 
-</div>
+- **[gep](https://github.com/utkarsh5026/gep)** - Git-enhanced productivity tool with semantic code search using vector embeddings and LLMs
+- **[justdoit](https://github.com/utkarsh5026/justdoit)** - Git implementation from scratch supporting hash-object, cat-file, ls-tree, checkout, and .gitignore
+- **[code_lines](https://github.com/utkarsh5026/code_lines)** - CLI tool for counting lines of code with rich terminal output and customizable filters
 
+### Full-Stack Applications
 
+- **[glass](https://github.com/utkarsh5026/glass)** - Learning Management System with Go/Gin backend, React/TypeScript frontend, courses, quizzes, and assignments
+- **[ProgChain](https://github.com/utkarsh5026/ProgChain)** - AI-powered learning platform with FastAPI backend and React frontend for personalized learning paths
+- **[Excpres](https://github.com/utkarsh5026/Excpres)** - Excel-to-Presentation converter using LLM analysis with visual slide editor and PPTX export
+- **[TireNoHire](https://github.com/utkarsh5026/TireNoHire)** - Resume matching API using FastAPI and MongoDB with AI-powered analysis
+- **[studio](https://github.com/utkarsh5026/studio)** - Rust/WebAssembly backend with React/Redux frontend in Docker multi-stage builds
+- **[GenshinQL](https://github.com/utkarsh5026/GenshinQL)** - Full-stack TypeScript/React application with client-server architecture
+- **[Infinity](https://github.com/utkarsh5026/Infinity)** - Next.js application with modern React patterns and TypeScript
+- **[portfolio](https://github.com/utkarsh5026/portfolio)** - VS Code-inspired portfolio website with React, Framer Motion, and Catppuccin theme
 
-## 🚀 Learning Queue:
+### Libraries & Utilities
 
-<br><br>
+- **[mayonation](https://github.com/utkarsh5026/mayonation)** - Web animation library with fluent Timeline API for CSS, transforms, and SVG path animations
+- **[pauth](https://github.com/utkarsh5026/pauth)** - Python OAuth 2.0 library with PKCE support and Flask/Django integrations
+- **[Gopi](https://github.com/utkarsh5026/Gopi)** - Go utility library implementing array operations and data structure helpers
+- **[gopool](https://github.com/utkarsh5026/gopool)** - Production-ready Go worker pool library with VitePress documentation
+- **[chankit](https://github.com/utkarsh5026/chankit)** - Channel operations library for Go providing utilities for concurrent programming
+- **[vecation](https://github.com/utkarsh5026/vecation)** - Go library for vector operations and related functionality
 
-<div align="center">
+### Browser Extensions & Web Apps
 
-![Learning](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHo4NHJnYnB0ZHRxbWRyYWY4NjJ6aWN6YnB6ZmRwbXd6aXIyYnBmOWRqcWx6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
+- **[inpeace](https://github.com/utkarsh5026/inpeace)** - Chrome extension for mindful browsing with multi-stage psychological ritual design
+- **[mdhd](https://github.com/utkarsh5026/mdhd)** - Markdown file manager with IndexedDB-based virtual file system
+- **[FirstPrinciples](https://github.com/utkarsh5026/FirstPrinciples)** - Documentation app with Docker-based production and development workflows
 
-</div>
+## Tech Stack
 
-<br></br>
+`Go` `TypeScript` `Python` `React` `Docker` `Kubernetes` `AWS` `FastAPI` `PostgreSQL`
 
-- 🔧 **Compiler Design:** Building a language that will probably never replace JS (but has better error messages)
-- 📚 **Database Internals:** Understanding why SELECT * is actually SELECT *your_time by building my own database
-- 🎯 **Vector Databases:** Understanding the concept of "close enough"
-- 🧠 **LLMs & RAG:** Making AI slightly less artificial and occasionally intelligent
-- 🎮 **WebAssembly:** Because someone said JavaScript wasn't complicated enough
-- ⚡ **System Design:** Professional box drawing with occasional code implementation
-- 🔍 **RAG Systems:** Teaching documents to answer questions they weren't prepared for
+## Writing
 
-## ✍️ Tech Tales
-> Where I pretend to know what I'm writing about
+- [Skiplists: Mastering Data Structures for Databases](https://medium.com/@utkarshpriyadarshi5026/mastering-data-structures-for-databases-part-1-skiplists-e66f0831ac0b)
+- [Understanding process.nextTick() in Node.js](https://medium.com/@utkarshpriyadarshi5026/nodejs-process-nexttick-for-babies-b9eabfd3009a)
+- [Webhooks in Node.js](https://medium.com/@utkarshpriyadarshi5026/web-hooks-for-babies-in-node-js-5f5c1f390cba)
 
-- [Skiplists: The Data Structure That Skips Leg Day](https://medium.com/@utkarshpriyadarshi5026/mastering-data-structures-for-databases-part-1-skiplists-e66f0831ac0b)
-- [process.nextTick(): Because setTimeout Was Too Mainstream](https://medium.com/@utkarshpriyadarshi5026/nodejs-process-nexttick-for-babies-b9eabfd3009a)
-- [Webhooks for Babies: Like Regular Hooks, But With More Crying](https://medium.com/@utkarshpriyadarshi5026/web-hooks-for-babies-in-node-js-5f5c1f390cba)
+## Connect
 
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-priyadarshi-8b5a731b9/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/UtkarshPriyad10)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@utkarshpriyadarshi5026)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshpriyadarshi5026@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=utkarsh5026&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
+[LinkedIn](https://www.linkedin.com/in/utkarsh-priyadarshi-8b5a731b9/) | [Twitter](https://x.com/UtkarshPriyad10) | [Medium](https://medium.com/@utkarshpriyadarshi5026) | [Email](mailto:utkarshpriyadarshi5026@gmail.com)
